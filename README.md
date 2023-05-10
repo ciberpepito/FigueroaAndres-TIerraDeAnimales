@@ -45,7 +45,7 @@ Nuestro público objetivo se caracteriza por:
 
 
 Título y encabezados: sans-serif moderna y legible, como [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat) o [Roboto](https://fonts.google.com/specimen/Roboto?query=roboto).
-Cuerpo de texto: Utiliza una tipografía serif o sans-serif de fácil lectura, como [OpenSans] (https://fonts.google.com/specimen/Open+Sans?query=open+sans) o [Lato](https://fonts.google.com/specimen/Lato?query=lato).
+Cuerpo de texto: Utiliza una tipografía serif o sans-serif de fácil lectura, como [OpenSans](https://fonts.google.com/specimen/Open+Sans?query=open+sans) o [Lato](https://fonts.google.com/specimen/Lato?query=lato).
 
 Paleta de colores (formato hexadecimal):
 
