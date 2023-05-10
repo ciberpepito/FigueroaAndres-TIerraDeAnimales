@@ -64,13 +64,3 @@ El rojo suave (#FF5A5F) se utiliza como color de acento para resaltar elementos 
 El fondo blanco (#FFFFFF) brinda una sensación de limpieza, simplicidad y claridad.
 Los tonos de gris oscuro (#333333) y gris medio (#666666) se utilizan para el texto principal y secundario, garantizando una legibilidad óptima.
 
-
-### Logo
-
-![logo](/logoSongLab.png)
-
-### FIGMA
-
-[Link de FIGMA](https://www.figma.com/file/cmY7sm7rqblH55DEDY97GN/Song-Lab-wireframe?node-id=4%3A4)
-
-
