@@ -64,3 +64,7 @@ El rojo suave (#FF5A5F) se utiliza como color de acento para resaltar elementos 
 El fondo blanco (#FFFFFF) brinda una sensación de limpieza, simplicidad y claridad.
 Los tonos de gris oscuro (#333333) y gris medio (#666666) se utilizan para el texto principal y secundario, garantizando una legibilidad óptima.
 
+### Logo
+
+![Logo](./PNG/LOGO%20con%20letra.png)
+
