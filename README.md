@@ -66,7 +66,7 @@ Los tonos de gris oscuro (#333333) y gris medio (#666666) se utilizan para el te
 
 ### Logo
 
-![Logo](./PNG/LOGO%20con%20letra.png)
+![Logo](./PNG/LOGO_con_letra.png)
 
 ### Figma
 
