@@ -68,3 +68,6 @@ Los tonos de gris oscuro (#333333) y gris medio (#666666) se utilizan para el te
 
 ![Logo](./PNG/LOGO%20con%20letra.png)
 
+### Figma
+
+[Figma](https://www.figma.com/file/XhVrvNmmeAWL8mFBCqNDhO/Tierra-de-Animales?type=design&node-id=0-1&t=ENhL7Dd8nzMJ6yzv-0)
